@@ -1,0 +1,32 @@
+feature,shap_importance
+APR Severity of Illness Code,5.2559714
+Age Group,1.9851623
+CCS Diagnosis Code,0.64182067
+Patient Disposition,0.5082842
+Total Costs,0.368427
+Total Charges,0.33871952
+APR DRG Description,0.302467
+CCS Procedure Code,0.2678687
+APR DRG Code,0.25620124
+CCS Procedure Description,0.24974355
+APR MDC Description,0.22548819
+CCS Diagnosis Description,0.22057253
+Length of Stay,0.21037237
+Facility Name,0.20619822
+Operating Certificate Number,0.1616592
+Payment Typology 2,0.14312826
+APR Severity of Illness Description,0.14234844
+Payment Typology 3,0.13047758
+Zip Code - 3 digits,0.12591058
+Payment Typology 1,0.12351924
+Facility Id,0.12296456
+Type of Admission,0.10474219
+Gender,0.09919
+Race,0.08630463
+Hospital County,0.07847562
+APR MDC Code,0.07376181
+Emergency Department Indicator,0.067516916
+Health Service Area,0.055645287
+APR Medical Surgical Description,0.05020178
+Ethnicity,0.049972307
+Birth Weight,0.0009896283
